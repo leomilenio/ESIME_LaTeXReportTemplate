@@ -1,0 +1,14 @@
+#Ignora la carpeta LOGS de VSCode
+logs
+
+#Ignora los archivos del sistema
+.DS_store
+
+#Ignora los archivos ocupados por LaTeX al compilar
+.aux
+.fdb_latexmk
+.fls
+.log
+.pdf
+.synctex.gz
+
